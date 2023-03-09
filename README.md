@@ -31,44 +31,44 @@ If you want more information click [here](https://cs50.harvard.edu/x/2023/psets/
 Every user after registered will have $10000 by default
 
 * Login Page:
-![Login Page](/LogIn.png)
+![Login Page](/CS50 finance Screenshot/LogIn.png)
 
 * Register Page:
-![Register Page](/Register.png)
+![Register Page](/CS50 finance Screenshot/Register.png)
 
 * Index Page:
   This is the homepage of the website which also contains the History table of the user.
-![Index Page](/Index.png)
+![Index Page](/CS50 finance Screenshot/Index.png)
 
 * Quote Page (Input the stock symbol for checking the stock info): 
-![Quote Page](/Quote.png)
+![Quote Page](/CS50 finance Screenshot/Quote.png)
 
 * Quoted Page (The inputted stock symbol is displayed):
-![Quoted Page](/Quoted.png)
+![Quoted Page](/CS50 finance Screenshot/Quoted.png)
 
 * Buy page (Input the stock symbol and number of shares to buy):
-![Buy Page](/Buy.png)
+![Buy Page](/CS50 finance Screenshot/Buy.png)
 
 * Bought Page (The bought stock is displayed at the history):
-![Bought Page](/Bought.png)
+![Bought Page](/CS50 finance Screenshot/Bought.png)
 
 * Sell Page (Input the stock that you have bought in the drop-down list and input the number of shares to sell): 
-![Sell Page](/Sell.png)
+![Sell Page](/CS50 finance Screenshot/Sell.png)
 
 * Sold Page (The sold stock is displayed at the history):
-![Sold Page](/Sold.png)
+![Sold Page](/CS50 finance Screenshot/Sold.png)
 
 * History page (Show all your action on the page such as sell, buy): 
-![History Page](/History.png)
+![History Page](/CS50 finance Screenshot/History.png)
 
 * Add Cash Page: 
-![Add Page](/Add.png)
+![Add Page](/CS50 finance Screenshot/Add.png)
 
 * Added Cash Page:
-![Added Page](/Added.png)
+![Added Page](/CS50 finance Screenshot/Added.png)
 
 * Change Password (Allow user to change their password but cannot input the new password same as current password): 
-![Change Password](/ChangePassword.png)
+![Change Password](/CS50 finance Screenshot/ChangePassword.png)
 
 ## Reference
 * Bootstrap
