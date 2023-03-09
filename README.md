@@ -31,7 +31,7 @@ If you want more information click [here](https://cs50.harvard.edu/x/2023/psets/
 Every user after registered will have $10000 by default
 
 * Login Page:
-![Login Page](/Login.png)
+![Login Page](/LogIn.png)
 
 * Register Page:
 ![Register Page](/Register.png)
