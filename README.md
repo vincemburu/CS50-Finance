@@ -18,6 +18,8 @@ Apart from the function required and the built in function provided in this exer
 * Allow user to change their password
 * Allow the user to add more cash
 
+If you want more information click [here](https://cs50.harvard.edu/x/2023/psets/9/finance/)
+
 ## Built With
 * HTML for website strcuture
 * Flask for backend development
