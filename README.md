@@ -31,44 +31,44 @@ If you want more information click [here](https://cs50.harvard.edu/x/2023/psets/
 Every user after registered will have $10000 by default
 
 * Login Page:
-![Login Page](/CS50 finance Screenshot/LogIn.png)
+![Login Page](/CS50%20finance%20Screenshot/LogIn.png)
 
 * Register Page:
 ![Register Page](/CS50%20finance%20Screenshot/Register.png)
 
 * Index Page:
   This is the homepage of the website which also contains the History table of the user.
-![Index Page](/CS50 finance Screenshot/Index.png)
+![Index Page](/CS50%20finance%20Screenshot/Index.png)
 
 * Quote Page (Input the stock symbol for checking the stock info): 
-![Quote Page](/CS50 finance Screenshot/Quote.png)
+![Quote Page](/CS50%20finance%20Screenshot/Quote.png)
 
 * Quoted Page (The inputted stock symbol is displayed):
-![Quoted Page](/CS50 finance Screenshot/Quoted.png)
+![Quoted Page](/CS50%20finance%20Screenshot/Quoted.png)
 
 * Buy page (Input the stock symbol and number of shares to buy):
-![Buy Page](/CS50 finance Screenshot/Buy.png)
+![Buy Page](/CS50%20finance%20Screenshot/Buy.png)
 
 * Bought Page (The bought stock is displayed at the history):
-![Bought Page](/CS50 finance Screenshot/Bought.png)
+![Bought Page](/CS50%20finance%20Screenshot/Bought.png)
 
 * Sell Page (Input the stock that you have bought in the drop-down list and input the number of shares to sell): 
-![Sell Page](/CS50 finance Screenshot/Sell.png)
+![Sell Page](/CS50%20finance%20Screenshot/Sell.png)
 
 * Sold Page (The sold stock is displayed at the history):
-![Sold Page](/CS50 finance Screenshot/Sold.png)
+![Sold Page](/CS50%20finance%20Screenshot/Sold.png)
 
 * History page (Show all your action on the page such as sell, buy): 
-![History Page](/CS50 finance Screenshot/History.png)
+![History Page](/CS50%20finance%20Screenshot/History.png)
 
 * Add Cash Page: 
-![Add Page](/CS50 finance Screenshot/Add.png)
+![Add Page](/CS50%20finance%20Screenshot/Add.png)
 
 * Added Cash Page:
-![Added Page](/CS50 finance Screenshot/Added.png)
+![Added Page](/CS50%20finance%20Screenshot/Added.png)
 
 * Change Password (Allow user to change their password but cannot input the new password same as current password): 
-![Change Password](/CS50 finance Screenshot/ChangePassword.png)
+![Change Password](/CS50%20finance%20Screenshot/ChangePassword.png)
 
 ## Reference
 * Bootstrap
