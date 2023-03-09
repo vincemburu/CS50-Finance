@@ -34,7 +34,7 @@ Every user after registered will have $10000 by default
 ![Login Page](/CS50 finance Screenshot/LogIn.png)
 
 * Register Page:
-![Register Page](/CS50 finance Screenshot/Register.png)
+![Register Page](/CS50%20finance%20Screenshot/Register.png)
 
 * Index Page:
   This is the homepage of the website which also contains the History table of the user.
