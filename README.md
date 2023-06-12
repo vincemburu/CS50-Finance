@@ -1,4 +1,4 @@
-# CS50-pset9-Finance
+# CS50-Finance
 
 ## Introduction
 This is one of the assignments provided in CS50x - Introduction to Computer Science.
