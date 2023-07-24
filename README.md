@@ -24,7 +24,7 @@ If you want more information click [here](https://cs50.harvard.edu/x/2023/psets/
 * HTML for website strcuture
 * Flask for backend development
 * Bootstrap for design
-* [IEX API](https://iexcloud.io/) to get the stocks valus in real time
+* [IEX API](https://iexcloud.io/) to get the stocks values in real time
 * sqlite3 for storing users information (username and hashed password) and the transaction record (bought or sold)
 
 ## Website
